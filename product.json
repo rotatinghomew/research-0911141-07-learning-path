@@ -1,0 +1,20 @@
+{
+  "name": "练习进展观察台",
+  "focus": "知识点作答与尝试历史",
+  "options": [
+    [
+      "learner",
+      "学习者",
+      [
+        "student_01",
+        "student_02",
+        "student_03",
+        "student_04"
+      ]
+    ]
+  ],
+  "selection": {
+    "learner": "student_01"
+  },
+  "purpose": "本地研究资料浏览与复核记录"
+}

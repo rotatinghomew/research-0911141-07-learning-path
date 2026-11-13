@@ -1,0 +1,6616 @@
+{
+  "skills": [
+    "reasoning",
+    "measurement",
+    "statistics",
+    "interpretation"
+  ],
+  "items": [
+    {
+      "item_id": "item_00",
+      "skills": [
+        "reasoning",
+        "measurement"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": "2026-03-01",
+      "difficulty_hint": "easy"
+    },
+    {
+      "item_id": "item_01",
+      "skills": [
+        "measurement"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "mixed"
+    },
+    {
+      "item_id": "item_02",
+      "skills": [
+        "statistics"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "advanced"
+    },
+    {
+      "item_id": "item_03",
+      "skills": [
+        "interpretation"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "easy"
+    },
+    {
+      "item_id": "item_04",
+      "skills": [
+        "reasoning"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "mixed"
+    },
+    {
+      "item_id": "item_05",
+      "skills": [
+        "measurement",
+        "statistics"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "advanced"
+    },
+    {
+      "item_id": "item_06",
+      "skills": [
+        "statistics"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "easy"
+    },
+    {
+      "item_id": "item_07",
+      "skills": [
+        "interpretation"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "mixed"
+    },
+    {
+      "item_id": "item_08",
+      "skills": [
+        "reasoning"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "advanced"
+    },
+    {
+      "item_id": "item_09",
+      "skills": [
+        "measurement"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "easy"
+    },
+    {
+      "item_id": "item_10",
+      "skills": [
+        "statistics",
+        "interpretation"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "mixed"
+    },
+    {
+      "item_id": "item_11",
+      "skills": [
+        "interpretation"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "advanced"
+    },
+    {
+      "item_id": "item_12",
+      "skills": [
+        "reasoning"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "easy"
+    },
+    {
+      "item_id": "item_13",
+      "skills": [
+        "measurement"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "mixed"
+    },
+    {
+      "item_id": "item_14",
+      "skills": [
+        "statistics"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "advanced"
+    },
+    {
+      "item_id": "item_15",
+      "skills": [
+        "interpretation",
+        "reasoning"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "easy"
+    },
+    {
+      "item_id": "item_16",
+      "skills": [
+        "reasoning"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "mixed"
+    },
+    {
+      "item_id": "item_17",
+      "skills": [
+        "measurement"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "advanced"
+    },
+    {
+      "item_id": "item_18",
+      "skills": [
+        "statistics"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "easy"
+    },
+    {
+      "item_id": "item_19",
+      "skills": [
+        "interpretation"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "mixed"
+    },
+    {
+      "item_id": "item_20",
+      "skills": [
+        "reasoning",
+        "measurement"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "advanced"
+    },
+    {
+      "item_id": "item_21",
+      "skills": [
+        "measurement"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "easy"
+    },
+    {
+      "item_id": "item_22",
+      "skills": [
+        "statistics"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "mixed"
+    },
+    {
+      "item_id": "item_23",
+      "skills": [
+        "interpretation"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "advanced"
+    },
+    {
+      "item_id": "item_24",
+      "skills": [
+        "reasoning"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "easy"
+    },
+    {
+      "item_id": "item_25",
+      "skills": [
+        "measurement",
+        "statistics"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "mixed"
+    },
+    {
+      "item_id": "item_26",
+      "skills": [
+        "statistics"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "advanced"
+    },
+    {
+      "item_id": "item_27",
+      "skills": [
+        "interpretation"
+      ],
+      "active_from": "2026-01-01",
+      "retired_at": null,
+      "difficulty_hint": "easy"
+    }
+  ],
+  "attempts": [
+    {
+      "attempt_id": "attempt_1_0",
+      "learner_id": "student_01",
+      "item_id": "item_01",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_1_1",
+      "learner_id": "student_01",
+      "item_id": "item_04",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_1_2",
+      "learner_id": "student_01",
+      "item_id": "item_07",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_1_3",
+      "learner_id": "student_01",
+      "item_id": "item_10",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_1_4",
+      "learner_id": "student_01",
+      "item_id": "item_13",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_5",
+      "learner_id": "student_01",
+      "item_id": "item_16",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_6",
+      "learner_id": "student_01",
+      "item_id": "item_19",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_7",
+      "learner_id": "student_01",
+      "item_id": "item_19",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_8",
+      "learner_id": "student_01",
+      "item_id": "item_25",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_9",
+      "learner_id": "student_01",
+      "item_id": "item_00",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_10",
+      "learner_id": "student_01",
+      "item_id": "item_03",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_11",
+      "learner_id": "student_01",
+      "item_id": "item_06",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_12",
+      "learner_id": "student_01",
+      "item_id": "item_09",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_13",
+      "learner_id": "student_01",
+      "item_id": "item_12",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_14",
+      "learner_id": "student_01",
+      "item_id": "item_12",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_15",
+      "learner_id": "student_01",
+      "item_id": "item_18",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_16",
+      "learner_id": "student_01",
+      "item_id": "item_21",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_17",
+      "learner_id": "student_01",
+      "item_id": "item_24",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_18",
+      "learner_id": "student_01",
+      "item_id": "item_27",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_19",
+      "learner_id": "student_01",
+      "item_id": "item_02",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_20",
+      "learner_id": "student_01",
+      "item_id": "item_05",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_1_21",
+      "learner_id": "student_01",
+      "item_id": "item_05",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_0",
+      "learner_id": "student_02",
+      "item_id": "item_02",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_2_1",
+      "learner_id": "student_02",
+      "item_id": "item_05",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_2_2",
+      "learner_id": "student_02",
+      "item_id": "item_08",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_2_3",
+      "learner_id": "student_02",
+      "item_id": "item_11",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_2_4",
+      "learner_id": "student_02",
+      "item_id": "item_14",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_5",
+      "learner_id": "student_02",
+      "item_id": "item_17",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_6",
+      "learner_id": "student_02",
+      "item_id": "item_20",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_7",
+      "learner_id": "student_02",
+      "item_id": "item_20",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_8",
+      "learner_id": "student_02",
+      "item_id": "item_26",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_9",
+      "learner_id": "student_02",
+      "item_id": "item_01",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_10",
+      "learner_id": "student_02",
+      "item_id": "item_04",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_11",
+      "learner_id": "student_02",
+      "item_id": "item_07",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_12",
+      "learner_id": "student_02",
+      "item_id": "item_10",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_13",
+      "learner_id": "student_02",
+      "item_id": "item_13",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_14",
+      "learner_id": "student_02",
+      "item_id": "item_13",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_15",
+      "learner_id": "student_02",
+      "item_id": "item_19",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_16",
+      "learner_id": "student_02",
+      "item_id": "item_22",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_17",
+      "learner_id": "student_02",
+      "item_id": "item_25",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_18",
+      "learner_id": "student_02",
+      "item_id": "item_00",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_19",
+      "learner_id": "student_02",
+      "item_id": "item_03",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_20",
+      "learner_id": "student_02",
+      "item_id": "item_06",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_2_21",
+      "learner_id": "student_02",
+      "item_id": "item_06",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_0",
+      "learner_id": "student_03",
+      "item_id": "item_03",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_3_1",
+      "learner_id": "student_03",
+      "item_id": "item_06",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_3_2",
+      "learner_id": "student_03",
+      "item_id": "item_09",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_3_3",
+      "learner_id": "student_03",
+      "item_id": "item_12",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_3_4",
+      "learner_id": "student_03",
+      "item_id": "item_15",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_5",
+      "learner_id": "student_03",
+      "item_id": "item_18",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_6",
+      "learner_id": "student_03",
+      "item_id": "item_21",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_7",
+      "learner_id": "student_03",
+      "item_id": "item_21",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_8",
+      "learner_id": "student_03",
+      "item_id": "item_27",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_9",
+      "learner_id": "student_03",
+      "item_id": "item_02",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_10",
+      "learner_id": "student_03",
+      "item_id": "item_05",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_11",
+      "learner_id": "student_03",
+      "item_id": "item_08",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_12",
+      "learner_id": "student_03",
+      "item_id": "item_11",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_13",
+      "learner_id": "student_03",
+      "item_id": "item_14",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_14",
+      "learner_id": "student_03",
+      "item_id": "item_14",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_15",
+      "learner_id": "student_03",
+      "item_id": "item_20",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_16",
+      "learner_id": "student_03",
+      "item_id": "item_23",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_17",
+      "learner_id": "student_03",
+      "item_id": "item_26",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_18",
+      "learner_id": "student_03",
+      "item_id": "item_01",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_19",
+      "learner_id": "student_03",
+      "item_id": "item_04",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_20",
+      "learner_id": "student_03",
+      "item_id": "item_07",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_3_21",
+      "learner_id": "student_03",
+      "item_id": "item_07",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_0",
+      "learner_id": "student_04",
+      "item_id": "item_04",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_4_1",
+      "learner_id": "student_04",
+      "item_id": "item_07",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_4_2",
+      "learner_id": "student_04",
+      "item_id": "item_10",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_4_3",
+      "learner_id": "student_04",
+      "item_id": "item_13",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_4_4",
+      "learner_id": "student_04",
+      "item_id": "item_16",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_5",
+      "learner_id": "student_04",
+      "item_id": "item_19",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_6",
+      "learner_id": "student_04",
+      "item_id": "item_22",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_7",
+      "learner_id": "student_04",
+      "item_id": "item_22",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_8",
+      "learner_id": "student_04",
+      "item_id": "item_00",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_9",
+      "learner_id": "student_04",
+      "item_id": "item_03",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_10",
+      "learner_id": "student_04",
+      "item_id": "item_06",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_11",
+      "learner_id": "student_04",
+      "item_id": "item_09",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_12",
+      "learner_id": "student_04",
+      "item_id": "item_12",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_13",
+      "learner_id": "student_04",
+      "item_id": "item_15",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_14",
+      "learner_id": "student_04",
+      "item_id": "item_15",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_15",
+      "learner_id": "student_04",
+      "item_id": "item_21",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_16",
+      "learner_id": "student_04",
+      "item_id": "item_24",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_17",
+      "learner_id": "student_04",
+      "item_id": "item_27",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_18",
+      "learner_id": "student_04",
+      "item_id": "item_02",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_19",
+      "learner_id": "student_04",
+      "item_id": "item_05",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_20",
+      "learner_id": "student_04",
+      "item_id": "item_08",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_4_21",
+      "learner_id": "student_04",
+      "item_id": "item_08",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_0",
+      "learner_id": "student_05",
+      "item_id": "item_05",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_5_1",
+      "learner_id": "student_05",
+      "item_id": "item_08",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_5_2",
+      "learner_id": "student_05",
+      "item_id": "item_11",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_5_3",
+      "learner_id": "student_05",
+      "item_id": "item_14",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_5_4",
+      "learner_id": "student_05",
+      "item_id": "item_17",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_5",
+      "learner_id": "student_05",
+      "item_id": "item_20",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_6",
+      "learner_id": "student_05",
+      "item_id": "item_23",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_7",
+      "learner_id": "student_05",
+      "item_id": "item_23",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_8",
+      "learner_id": "student_05",
+      "item_id": "item_01",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_9",
+      "learner_id": "student_05",
+      "item_id": "item_04",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_10",
+      "learner_id": "student_05",
+      "item_id": "item_07",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_11",
+      "learner_id": "student_05",
+      "item_id": "item_10",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_12",
+      "learner_id": "student_05",
+      "item_id": "item_13",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_13",
+      "learner_id": "student_05",
+      "item_id": "item_16",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_14",
+      "learner_id": "student_05",
+      "item_id": "item_16",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_15",
+      "learner_id": "student_05",
+      "item_id": "item_22",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_16",
+      "learner_id": "student_05",
+      "item_id": "item_25",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_17",
+      "learner_id": "student_05",
+      "item_id": "item_00",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_18",
+      "learner_id": "student_05",
+      "item_id": "item_03",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_19",
+      "learner_id": "student_05",
+      "item_id": "item_06",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_20",
+      "learner_id": "student_05",
+      "item_id": "item_09",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_5_21",
+      "learner_id": "student_05",
+      "item_id": "item_09",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_0",
+      "learner_id": "student_06",
+      "item_id": "item_06",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_6_1",
+      "learner_id": "student_06",
+      "item_id": "item_09",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_6_2",
+      "learner_id": "student_06",
+      "item_id": "item_12",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_6_3",
+      "learner_id": "student_06",
+      "item_id": "item_15",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_6_4",
+      "learner_id": "student_06",
+      "item_id": "item_18",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_5",
+      "learner_id": "student_06",
+      "item_id": "item_21",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_6",
+      "learner_id": "student_06",
+      "item_id": "item_24",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_7",
+      "learner_id": "student_06",
+      "item_id": "item_24",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_8",
+      "learner_id": "student_06",
+      "item_id": "item_02",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_9",
+      "learner_id": "student_06",
+      "item_id": "item_05",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_10",
+      "learner_id": "student_06",
+      "item_id": "item_08",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_11",
+      "learner_id": "student_06",
+      "item_id": "item_11",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_12",
+      "learner_id": "student_06",
+      "item_id": "item_14",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_13",
+      "learner_id": "student_06",
+      "item_id": "item_17",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_14",
+      "learner_id": "student_06",
+      "item_id": "item_17",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_15",
+      "learner_id": "student_06",
+      "item_id": "item_23",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_16",
+      "learner_id": "student_06",
+      "item_id": "item_26",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_17",
+      "learner_id": "student_06",
+      "item_id": "item_01",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_18",
+      "learner_id": "student_06",
+      "item_id": "item_04",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_19",
+      "learner_id": "student_06",
+      "item_id": "item_07",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_20",
+      "learner_id": "student_06",
+      "item_id": "item_10",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_6_21",
+      "learner_id": "student_06",
+      "item_id": "item_10",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_0",
+      "learner_id": "student_07",
+      "item_id": "item_07",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_7_1",
+      "learner_id": "student_07",
+      "item_id": "item_10",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_7_2",
+      "learner_id": "student_07",
+      "item_id": "item_13",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_7_3",
+      "learner_id": "student_07",
+      "item_id": "item_16",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_7_4",
+      "learner_id": "student_07",
+      "item_id": "item_19",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_5",
+      "learner_id": "student_07",
+      "item_id": "item_22",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_6",
+      "learner_id": "student_07",
+      "item_id": "item_25",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_7",
+      "learner_id": "student_07",
+      "item_id": "item_25",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_8",
+      "learner_id": "student_07",
+      "item_id": "item_03",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_9",
+      "learner_id": "student_07",
+      "item_id": "item_06",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_10",
+      "learner_id": "student_07",
+      "item_id": "item_09",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_11",
+      "learner_id": "student_07",
+      "item_id": "item_12",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_12",
+      "learner_id": "student_07",
+      "item_id": "item_15",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_13",
+      "learner_id": "student_07",
+      "item_id": "item_18",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_14",
+      "learner_id": "student_07",
+      "item_id": "item_18",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_15",
+      "learner_id": "student_07",
+      "item_id": "item_24",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_16",
+      "learner_id": "student_07",
+      "item_id": "item_27",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_17",
+      "learner_id": "student_07",
+      "item_id": "item_02",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_18",
+      "learner_id": "student_07",
+      "item_id": "item_05",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_19",
+      "learner_id": "student_07",
+      "item_id": "item_08",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_20",
+      "learner_id": "student_07",
+      "item_id": "item_11",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_7_21",
+      "learner_id": "student_07",
+      "item_id": "item_11",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_0",
+      "learner_id": "student_08",
+      "item_id": "item_08",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_8_1",
+      "learner_id": "student_08",
+      "item_id": "item_11",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_8_2",
+      "learner_id": "student_08",
+      "item_id": "item_14",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_8_3",
+      "learner_id": "student_08",
+      "item_id": "item_17",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_8_4",
+      "learner_id": "student_08",
+      "item_id": "item_20",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_5",
+      "learner_id": "student_08",
+      "item_id": "item_23",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_6",
+      "learner_id": "student_08",
+      "item_id": "item_26",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_7",
+      "learner_id": "student_08",
+      "item_id": "item_26",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_8",
+      "learner_id": "student_08",
+      "item_id": "item_04",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_9",
+      "learner_id": "student_08",
+      "item_id": "item_07",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_10",
+      "learner_id": "student_08",
+      "item_id": "item_10",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_11",
+      "learner_id": "student_08",
+      "item_id": "item_13",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_12",
+      "learner_id": "student_08",
+      "item_id": "item_16",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_13",
+      "learner_id": "student_08",
+      "item_id": "item_19",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_14",
+      "learner_id": "student_08",
+      "item_id": "item_19",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_15",
+      "learner_id": "student_08",
+      "item_id": "item_25",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_16",
+      "learner_id": "student_08",
+      "item_id": "item_00",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_17",
+      "learner_id": "student_08",
+      "item_id": "item_03",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_18",
+      "learner_id": "student_08",
+      "item_id": "item_06",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_19",
+      "learner_id": "student_08",
+      "item_id": "item_09",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_20",
+      "learner_id": "student_08",
+      "item_id": "item_12",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_8_21",
+      "learner_id": "student_08",
+      "item_id": "item_12",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_0",
+      "learner_id": "student_09",
+      "item_id": "item_09",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_9_1",
+      "learner_id": "student_09",
+      "item_id": "item_12",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_9_2",
+      "learner_id": "student_09",
+      "item_id": "item_15",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_9_3",
+      "learner_id": "student_09",
+      "item_id": "item_18",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_9_4",
+      "learner_id": "student_09",
+      "item_id": "item_21",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_5",
+      "learner_id": "student_09",
+      "item_id": "item_24",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_6",
+      "learner_id": "student_09",
+      "item_id": "item_27",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_7",
+      "learner_id": "student_09",
+      "item_id": "item_27",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_8",
+      "learner_id": "student_09",
+      "item_id": "item_05",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_9",
+      "learner_id": "student_09",
+      "item_id": "item_08",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_10",
+      "learner_id": "student_09",
+      "item_id": "item_11",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_11",
+      "learner_id": "student_09",
+      "item_id": "item_14",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_12",
+      "learner_id": "student_09",
+      "item_id": "item_17",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_13",
+      "learner_id": "student_09",
+      "item_id": "item_20",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_14",
+      "learner_id": "student_09",
+      "item_id": "item_20",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_15",
+      "learner_id": "student_09",
+      "item_id": "item_26",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_16",
+      "learner_id": "student_09",
+      "item_id": "item_01",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_17",
+      "learner_id": "student_09",
+      "item_id": "item_04",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_18",
+      "learner_id": "student_09",
+      "item_id": "item_07",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_19",
+      "learner_id": "student_09",
+      "item_id": "item_10",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_20",
+      "learner_id": "student_09",
+      "item_id": "item_13",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_9_21",
+      "learner_id": "student_09",
+      "item_id": "item_13",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_0",
+      "learner_id": "student_10",
+      "item_id": "item_10",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_10_1",
+      "learner_id": "student_10",
+      "item_id": "item_13",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_10_2",
+      "learner_id": "student_10",
+      "item_id": "item_16",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_10_3",
+      "learner_id": "student_10",
+      "item_id": "item_19",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_10_4",
+      "learner_id": "student_10",
+      "item_id": "item_22",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_5",
+      "learner_id": "student_10",
+      "item_id": "item_25",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_6",
+      "learner_id": "student_10",
+      "item_id": "item_00",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_7",
+      "learner_id": "student_10",
+      "item_id": "item_00",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_8",
+      "learner_id": "student_10",
+      "item_id": "item_06",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_9",
+      "learner_id": "student_10",
+      "item_id": "item_09",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_10",
+      "learner_id": "student_10",
+      "item_id": "item_12",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_11",
+      "learner_id": "student_10",
+      "item_id": "item_15",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_12",
+      "learner_id": "student_10",
+      "item_id": "item_18",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_13",
+      "learner_id": "student_10",
+      "item_id": "item_21",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_14",
+      "learner_id": "student_10",
+      "item_id": "item_21",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_15",
+      "learner_id": "student_10",
+      "item_id": "item_27",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_16",
+      "learner_id": "student_10",
+      "item_id": "item_02",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_17",
+      "learner_id": "student_10",
+      "item_id": "item_05",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_18",
+      "learner_id": "student_10",
+      "item_id": "item_08",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_19",
+      "learner_id": "student_10",
+      "item_id": "item_11",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_20",
+      "learner_id": "student_10",
+      "item_id": "item_14",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_10_21",
+      "learner_id": "student_10",
+      "item_id": "item_14",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_0",
+      "learner_id": "student_11",
+      "item_id": "item_11",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_11_1",
+      "learner_id": "student_11",
+      "item_id": "item_14",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_11_2",
+      "learner_id": "student_11",
+      "item_id": "item_17",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_11_3",
+      "learner_id": "student_11",
+      "item_id": "item_20",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_11_4",
+      "learner_id": "student_11",
+      "item_id": "item_23",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_5",
+      "learner_id": "student_11",
+      "item_id": "item_26",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_6",
+      "learner_id": "student_11",
+      "item_id": "item_01",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_7",
+      "learner_id": "student_11",
+      "item_id": "item_01",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_8",
+      "learner_id": "student_11",
+      "item_id": "item_07",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_9",
+      "learner_id": "student_11",
+      "item_id": "item_10",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_10",
+      "learner_id": "student_11",
+      "item_id": "item_13",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_11",
+      "learner_id": "student_11",
+      "item_id": "item_16",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_12",
+      "learner_id": "student_11",
+      "item_id": "item_19",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_13",
+      "learner_id": "student_11",
+      "item_id": "item_22",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_14",
+      "learner_id": "student_11",
+      "item_id": "item_22",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_15",
+      "learner_id": "student_11",
+      "item_id": "item_00",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_16",
+      "learner_id": "student_11",
+      "item_id": "item_03",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_17",
+      "learner_id": "student_11",
+      "item_id": "item_06",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_18",
+      "learner_id": "student_11",
+      "item_id": "item_09",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_19",
+      "learner_id": "student_11",
+      "item_id": "item_12",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_20",
+      "learner_id": "student_11",
+      "item_id": "item_15",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_11_21",
+      "learner_id": "student_11",
+      "item_id": "item_15",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_0",
+      "learner_id": "student_12",
+      "item_id": "item_12",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_12_1",
+      "learner_id": "student_12",
+      "item_id": "item_15",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_12_2",
+      "learner_id": "student_12",
+      "item_id": "item_18",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_12_3",
+      "learner_id": "student_12",
+      "item_id": "item_21",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_12_4",
+      "learner_id": "student_12",
+      "item_id": "item_24",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_5",
+      "learner_id": "student_12",
+      "item_id": "item_27",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_6",
+      "learner_id": "student_12",
+      "item_id": "item_02",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_7",
+      "learner_id": "student_12",
+      "item_id": "item_02",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_8",
+      "learner_id": "student_12",
+      "item_id": "item_08",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_9",
+      "learner_id": "student_12",
+      "item_id": "item_11",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_10",
+      "learner_id": "student_12",
+      "item_id": "item_14",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_11",
+      "learner_id": "student_12",
+      "item_id": "item_17",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_12",
+      "learner_id": "student_12",
+      "item_id": "item_20",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_13",
+      "learner_id": "student_12",
+      "item_id": "item_23",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_14",
+      "learner_id": "student_12",
+      "item_id": "item_23",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_15",
+      "learner_id": "student_12",
+      "item_id": "item_01",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_16",
+      "learner_id": "student_12",
+      "item_id": "item_04",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_17",
+      "learner_id": "student_12",
+      "item_id": "item_07",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_18",
+      "learner_id": "student_12",
+      "item_id": "item_10",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_19",
+      "learner_id": "student_12",
+      "item_id": "item_13",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_20",
+      "learner_id": "student_12",
+      "item_id": "item_16",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_12_21",
+      "learner_id": "student_12",
+      "item_id": "item_16",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_0",
+      "learner_id": "student_13",
+      "item_id": "item_13",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_13_1",
+      "learner_id": "student_13",
+      "item_id": "item_16",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_13_2",
+      "learner_id": "student_13",
+      "item_id": "item_19",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_13_3",
+      "learner_id": "student_13",
+      "item_id": "item_22",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_13_4",
+      "learner_id": "student_13",
+      "item_id": "item_25",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_5",
+      "learner_id": "student_13",
+      "item_id": "item_00",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_6",
+      "learner_id": "student_13",
+      "item_id": "item_03",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_7",
+      "learner_id": "student_13",
+      "item_id": "item_03",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_8",
+      "learner_id": "student_13",
+      "item_id": "item_09",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_9",
+      "learner_id": "student_13",
+      "item_id": "item_12",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_10",
+      "learner_id": "student_13",
+      "item_id": "item_15",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_11",
+      "learner_id": "student_13",
+      "item_id": "item_18",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_12",
+      "learner_id": "student_13",
+      "item_id": "item_21",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_13",
+      "learner_id": "student_13",
+      "item_id": "item_24",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_14",
+      "learner_id": "student_13",
+      "item_id": "item_24",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_15",
+      "learner_id": "student_13",
+      "item_id": "item_02",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_16",
+      "learner_id": "student_13",
+      "item_id": "item_05",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_17",
+      "learner_id": "student_13",
+      "item_id": "item_08",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_18",
+      "learner_id": "student_13",
+      "item_id": "item_11",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_19",
+      "learner_id": "student_13",
+      "item_id": "item_14",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_20",
+      "learner_id": "student_13",
+      "item_id": "item_17",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_13_21",
+      "learner_id": "student_13",
+      "item_id": "item_17",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_0",
+      "learner_id": "student_14",
+      "item_id": "item_14",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_14_1",
+      "learner_id": "student_14",
+      "item_id": "item_17",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_14_2",
+      "learner_id": "student_14",
+      "item_id": "item_20",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_14_3",
+      "learner_id": "student_14",
+      "item_id": "item_23",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_14_4",
+      "learner_id": "student_14",
+      "item_id": "item_26",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_5",
+      "learner_id": "student_14",
+      "item_id": "item_01",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_6",
+      "learner_id": "student_14",
+      "item_id": "item_04",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_7",
+      "learner_id": "student_14",
+      "item_id": "item_04",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_8",
+      "learner_id": "student_14",
+      "item_id": "item_10",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_9",
+      "learner_id": "student_14",
+      "item_id": "item_13",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_10",
+      "learner_id": "student_14",
+      "item_id": "item_16",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_11",
+      "learner_id": "student_14",
+      "item_id": "item_19",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_12",
+      "learner_id": "student_14",
+      "item_id": "item_22",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_13",
+      "learner_id": "student_14",
+      "item_id": "item_25",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_14",
+      "learner_id": "student_14",
+      "item_id": "item_25",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_15",
+      "learner_id": "student_14",
+      "item_id": "item_03",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_16",
+      "learner_id": "student_14",
+      "item_id": "item_06",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_17",
+      "learner_id": "student_14",
+      "item_id": "item_09",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_18",
+      "learner_id": "student_14",
+      "item_id": "item_12",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_19",
+      "learner_id": "student_14",
+      "item_id": "item_15",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_20",
+      "learner_id": "student_14",
+      "item_id": "item_18",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_14_21",
+      "learner_id": "student_14",
+      "item_id": "item_18",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_0",
+      "learner_id": "student_15",
+      "item_id": "item_15",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_15_1",
+      "learner_id": "student_15",
+      "item_id": "item_18",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_15_2",
+      "learner_id": "student_15",
+      "item_id": "item_21",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_15_3",
+      "learner_id": "student_15",
+      "item_id": "item_24",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_15_4",
+      "learner_id": "student_15",
+      "item_id": "item_27",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_5",
+      "learner_id": "student_15",
+      "item_id": "item_02",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_6",
+      "learner_id": "student_15",
+      "item_id": "item_05",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_7",
+      "learner_id": "student_15",
+      "item_id": "item_05",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_8",
+      "learner_id": "student_15",
+      "item_id": "item_11",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_9",
+      "learner_id": "student_15",
+      "item_id": "item_14",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_10",
+      "learner_id": "student_15",
+      "item_id": "item_17",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_11",
+      "learner_id": "student_15",
+      "item_id": "item_20",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_12",
+      "learner_id": "student_15",
+      "item_id": "item_23",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_13",
+      "learner_id": "student_15",
+      "item_id": "item_26",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_14",
+      "learner_id": "student_15",
+      "item_id": "item_26",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_15",
+      "learner_id": "student_15",
+      "item_id": "item_04",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_16",
+      "learner_id": "student_15",
+      "item_id": "item_07",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_17",
+      "learner_id": "student_15",
+      "item_id": "item_10",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_18",
+      "learner_id": "student_15",
+      "item_id": "item_13",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_19",
+      "learner_id": "student_15",
+      "item_id": "item_16",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_20",
+      "learner_id": "student_15",
+      "item_id": "item_19",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_15_21",
+      "learner_id": "student_15",
+      "item_id": "item_19",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_0",
+      "learner_id": "student_16",
+      "item_id": "item_16",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_16_1",
+      "learner_id": "student_16",
+      "item_id": "item_19",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_16_2",
+      "learner_id": "student_16",
+      "item_id": "item_22",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_16_3",
+      "learner_id": "student_16",
+      "item_id": "item_25",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_16_4",
+      "learner_id": "student_16",
+      "item_id": "item_00",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_5",
+      "learner_id": "student_16",
+      "item_id": "item_03",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_6",
+      "learner_id": "student_16",
+      "item_id": "item_06",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_7",
+      "learner_id": "student_16",
+      "item_id": "item_06",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_8",
+      "learner_id": "student_16",
+      "item_id": "item_12",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_9",
+      "learner_id": "student_16",
+      "item_id": "item_15",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_10",
+      "learner_id": "student_16",
+      "item_id": "item_18",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_11",
+      "learner_id": "student_16",
+      "item_id": "item_21",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_12",
+      "learner_id": "student_16",
+      "item_id": "item_24",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_13",
+      "learner_id": "student_16",
+      "item_id": "item_27",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_14",
+      "learner_id": "student_16",
+      "item_id": "item_27",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_15",
+      "learner_id": "student_16",
+      "item_id": "item_05",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_16",
+      "learner_id": "student_16",
+      "item_id": "item_08",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_17",
+      "learner_id": "student_16",
+      "item_id": "item_11",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_18",
+      "learner_id": "student_16",
+      "item_id": "item_14",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_19",
+      "learner_id": "student_16",
+      "item_id": "item_17",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_20",
+      "learner_id": "student_16",
+      "item_id": "item_20",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_16_21",
+      "learner_id": "student_16",
+      "item_id": "item_20",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_0",
+      "learner_id": "student_17",
+      "item_id": "item_17",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_17_1",
+      "learner_id": "student_17",
+      "item_id": "item_20",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_17_2",
+      "learner_id": "student_17",
+      "item_id": "item_23",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_17_3",
+      "learner_id": "student_17",
+      "item_id": "item_26",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_17_4",
+      "learner_id": "student_17",
+      "item_id": "item_01",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_5",
+      "learner_id": "student_17",
+      "item_id": "item_04",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_6",
+      "learner_id": "student_17",
+      "item_id": "item_07",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_7",
+      "learner_id": "student_17",
+      "item_id": "item_07",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_8",
+      "learner_id": "student_17",
+      "item_id": "item_13",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_9",
+      "learner_id": "student_17",
+      "item_id": "item_16",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_10",
+      "learner_id": "student_17",
+      "item_id": "item_19",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_11",
+      "learner_id": "student_17",
+      "item_id": "item_22",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_12",
+      "learner_id": "student_17",
+      "item_id": "item_25",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_13",
+      "learner_id": "student_17",
+      "item_id": "item_00",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_14",
+      "learner_id": "student_17",
+      "item_id": "item_00",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_15",
+      "learner_id": "student_17",
+      "item_id": "item_06",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_16",
+      "learner_id": "student_17",
+      "item_id": "item_09",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_17",
+      "learner_id": "student_17",
+      "item_id": "item_12",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_18",
+      "learner_id": "student_17",
+      "item_id": "item_15",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_19",
+      "learner_id": "student_17",
+      "item_id": "item_18",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_20",
+      "learner_id": "student_17",
+      "item_id": "item_21",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_17_21",
+      "learner_id": "student_17",
+      "item_id": "item_21",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_0",
+      "learner_id": "student_18",
+      "item_id": "item_18",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_18_1",
+      "learner_id": "student_18",
+      "item_id": "item_21",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_18_2",
+      "learner_id": "student_18",
+      "item_id": "item_24",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_18_3",
+      "learner_id": "student_18",
+      "item_id": "item_27",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_18_4",
+      "learner_id": "student_18",
+      "item_id": "item_02",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_5",
+      "learner_id": "student_18",
+      "item_id": "item_05",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_6",
+      "learner_id": "student_18",
+      "item_id": "item_08",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_7",
+      "learner_id": "student_18",
+      "item_id": "item_08",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_8",
+      "learner_id": "student_18",
+      "item_id": "item_14",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_9",
+      "learner_id": "student_18",
+      "item_id": "item_17",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_10",
+      "learner_id": "student_18",
+      "item_id": "item_20",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_11",
+      "learner_id": "student_18",
+      "item_id": "item_23",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_12",
+      "learner_id": "student_18",
+      "item_id": "item_26",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_13",
+      "learner_id": "student_18",
+      "item_id": "item_01",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_14",
+      "learner_id": "student_18",
+      "item_id": "item_01",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_15",
+      "learner_id": "student_18",
+      "item_id": "item_07",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_16",
+      "learner_id": "student_18",
+      "item_id": "item_10",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_17",
+      "learner_id": "student_18",
+      "item_id": "item_13",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_18",
+      "learner_id": "student_18",
+      "item_id": "item_16",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_19",
+      "learner_id": "student_18",
+      "item_id": "item_19",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_20",
+      "learner_id": "student_18",
+      "item_id": "item_22",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_18_21",
+      "learner_id": "student_18",
+      "item_id": "item_22",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_0",
+      "learner_id": "student_19",
+      "item_id": "item_19",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_19_1",
+      "learner_id": "student_19",
+      "item_id": "item_22",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_19_2",
+      "learner_id": "student_19",
+      "item_id": "item_25",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_19_3",
+      "learner_id": "student_19",
+      "item_id": "item_00",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_19_4",
+      "learner_id": "student_19",
+      "item_id": "item_03",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_5",
+      "learner_id": "student_19",
+      "item_id": "item_06",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_6",
+      "learner_id": "student_19",
+      "item_id": "item_09",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_7",
+      "learner_id": "student_19",
+      "item_id": "item_09",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_8",
+      "learner_id": "student_19",
+      "item_id": "item_15",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_9",
+      "learner_id": "student_19",
+      "item_id": "item_18",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_10",
+      "learner_id": "student_19",
+      "item_id": "item_21",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_11",
+      "learner_id": "student_19",
+      "item_id": "item_24",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_12",
+      "learner_id": "student_19",
+      "item_id": "item_27",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_13",
+      "learner_id": "student_19",
+      "item_id": "item_02",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_14",
+      "learner_id": "student_19",
+      "item_id": "item_02",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_15",
+      "learner_id": "student_19",
+      "item_id": "item_08",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_16",
+      "learner_id": "student_19",
+      "item_id": "item_11",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_17",
+      "learner_id": "student_19",
+      "item_id": "item_14",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_18",
+      "learner_id": "student_19",
+      "item_id": "item_17",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_19",
+      "learner_id": "student_19",
+      "item_id": "item_20",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_20",
+      "learner_id": "student_19",
+      "item_id": "item_23",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_19_21",
+      "learner_id": "student_19",
+      "item_id": "item_23",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_0",
+      "learner_id": "student_20",
+      "item_id": "item_20",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_20_1",
+      "learner_id": "student_20",
+      "item_id": "item_23",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_20_2",
+      "learner_id": "student_20",
+      "item_id": "item_26",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_20_3",
+      "learner_id": "student_20",
+      "item_id": "item_01",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_20_4",
+      "learner_id": "student_20",
+      "item_id": "item_04",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_5",
+      "learner_id": "student_20",
+      "item_id": "item_07",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_6",
+      "learner_id": "student_20",
+      "item_id": "item_10",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_7",
+      "learner_id": "student_20",
+      "item_id": "item_10",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_8",
+      "learner_id": "student_20",
+      "item_id": "item_16",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_9",
+      "learner_id": "student_20",
+      "item_id": "item_19",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_10",
+      "learner_id": "student_20",
+      "item_id": "item_22",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_11",
+      "learner_id": "student_20",
+      "item_id": "item_25",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_12",
+      "learner_id": "student_20",
+      "item_id": "item_00",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_13",
+      "learner_id": "student_20",
+      "item_id": "item_03",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_14",
+      "learner_id": "student_20",
+      "item_id": "item_03",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_15",
+      "learner_id": "student_20",
+      "item_id": "item_09",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_16",
+      "learner_id": "student_20",
+      "item_id": "item_12",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_17",
+      "learner_id": "student_20",
+      "item_id": "item_15",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_18",
+      "learner_id": "student_20",
+      "item_id": "item_18",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_19",
+      "learner_id": "student_20",
+      "item_id": "item_21",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_20",
+      "learner_id": "student_20",
+      "item_id": "item_24",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_20_21",
+      "learner_id": "student_20",
+      "item_id": "item_24",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_0",
+      "learner_id": "student_21",
+      "item_id": "item_21",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_21_1",
+      "learner_id": "student_21",
+      "item_id": "item_24",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_21_2",
+      "learner_id": "student_21",
+      "item_id": "item_27",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_21_3",
+      "learner_id": "student_21",
+      "item_id": "item_02",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_21_4",
+      "learner_id": "student_21",
+      "item_id": "item_05",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_5",
+      "learner_id": "student_21",
+      "item_id": "item_08",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_6",
+      "learner_id": "student_21",
+      "item_id": "item_11",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_7",
+      "learner_id": "student_21",
+      "item_id": "item_11",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_8",
+      "learner_id": "student_21",
+      "item_id": "item_17",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_9",
+      "learner_id": "student_21",
+      "item_id": "item_20",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_10",
+      "learner_id": "student_21",
+      "item_id": "item_23",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_11",
+      "learner_id": "student_21",
+      "item_id": "item_26",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_12",
+      "learner_id": "student_21",
+      "item_id": "item_01",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_13",
+      "learner_id": "student_21",
+      "item_id": "item_04",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_14",
+      "learner_id": "student_21",
+      "item_id": "item_04",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_15",
+      "learner_id": "student_21",
+      "item_id": "item_10",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_16",
+      "learner_id": "student_21",
+      "item_id": "item_13",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_17",
+      "learner_id": "student_21",
+      "item_id": "item_16",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_18",
+      "learner_id": "student_21",
+      "item_id": "item_19",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_19",
+      "learner_id": "student_21",
+      "item_id": "item_22",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_20",
+      "learner_id": "student_21",
+      "item_id": "item_25",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_21_21",
+      "learner_id": "student_21",
+      "item_id": "item_25",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_0",
+      "learner_id": "student_22",
+      "item_id": "item_22",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_22_1",
+      "learner_id": "student_22",
+      "item_id": "item_25",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_22_2",
+      "learner_id": "student_22",
+      "item_id": "item_00",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_22_3",
+      "learner_id": "student_22",
+      "item_id": "item_03",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_22_4",
+      "learner_id": "student_22",
+      "item_id": "item_06",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_5",
+      "learner_id": "student_22",
+      "item_id": "item_09",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_6",
+      "learner_id": "student_22",
+      "item_id": "item_12",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_7",
+      "learner_id": "student_22",
+      "item_id": "item_12",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_8",
+      "learner_id": "student_22",
+      "item_id": "item_18",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_9",
+      "learner_id": "student_22",
+      "item_id": "item_21",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_10",
+      "learner_id": "student_22",
+      "item_id": "item_24",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_11",
+      "learner_id": "student_22",
+      "item_id": "item_27",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_12",
+      "learner_id": "student_22",
+      "item_id": "item_02",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_13",
+      "learner_id": "student_22",
+      "item_id": "item_05",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_14",
+      "learner_id": "student_22",
+      "item_id": "item_05",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_15",
+      "learner_id": "student_22",
+      "item_id": "item_11",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_16",
+      "learner_id": "student_22",
+      "item_id": "item_14",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_17",
+      "learner_id": "student_22",
+      "item_id": "item_17",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_18",
+      "learner_id": "student_22",
+      "item_id": "item_20",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_19",
+      "learner_id": "student_22",
+      "item_id": "item_23",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_20",
+      "learner_id": "student_22",
+      "item_id": "item_26",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_22_21",
+      "learner_id": "student_22",
+      "item_id": "item_26",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_0",
+      "learner_id": "student_23",
+      "item_id": "item_23",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_23_1",
+      "learner_id": "student_23",
+      "item_id": "item_26",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_23_2",
+      "learner_id": "student_23",
+      "item_id": "item_01",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_23_3",
+      "learner_id": "student_23",
+      "item_id": "item_04",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_23_4",
+      "learner_id": "student_23",
+      "item_id": "item_07",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_5",
+      "learner_id": "student_23",
+      "item_id": "item_10",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_6",
+      "learner_id": "student_23",
+      "item_id": "item_13",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_7",
+      "learner_id": "student_23",
+      "item_id": "item_13",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_8",
+      "learner_id": "student_23",
+      "item_id": "item_19",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_9",
+      "learner_id": "student_23",
+      "item_id": "item_22",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_10",
+      "learner_id": "student_23",
+      "item_id": "item_25",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_11",
+      "learner_id": "student_23",
+      "item_id": "item_00",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_12",
+      "learner_id": "student_23",
+      "item_id": "item_03",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_13",
+      "learner_id": "student_23",
+      "item_id": "item_06",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_14",
+      "learner_id": "student_23",
+      "item_id": "item_06",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_15",
+      "learner_id": "student_23",
+      "item_id": "item_12",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_16",
+      "learner_id": "student_23",
+      "item_id": "item_15",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_17",
+      "learner_id": "student_23",
+      "item_id": "item_18",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_18",
+      "learner_id": "student_23",
+      "item_id": "item_21",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_19",
+      "learner_id": "student_23",
+      "item_id": "item_24",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_20",
+      "learner_id": "student_23",
+      "item_id": "item_27",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_23_21",
+      "learner_id": "student_23",
+      "item_id": "item_27",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_0",
+      "learner_id": "student_24",
+      "item_id": "item_24",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_24_1",
+      "learner_id": "student_24",
+      "item_id": "item_27",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_24_2",
+      "learner_id": "student_24",
+      "item_id": "item_02",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_24_3",
+      "learner_id": "student_24",
+      "item_id": "item_05",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_24_4",
+      "learner_id": "student_24",
+      "item_id": "item_08",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_5",
+      "learner_id": "student_24",
+      "item_id": "item_11",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_6",
+      "learner_id": "student_24",
+      "item_id": "item_14",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_7",
+      "learner_id": "student_24",
+      "item_id": "item_14",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_8",
+      "learner_id": "student_24",
+      "item_id": "item_20",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_9",
+      "learner_id": "student_24",
+      "item_id": "item_23",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_10",
+      "learner_id": "student_24",
+      "item_id": "item_26",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_11",
+      "learner_id": "student_24",
+      "item_id": "item_01",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_12",
+      "learner_id": "student_24",
+      "item_id": "item_04",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_13",
+      "learner_id": "student_24",
+      "item_id": "item_07",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_14",
+      "learner_id": "student_24",
+      "item_id": "item_07",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_15",
+      "learner_id": "student_24",
+      "item_id": "item_13",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_16",
+      "learner_id": "student_24",
+      "item_id": "item_16",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_17",
+      "learner_id": "student_24",
+      "item_id": "item_19",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_18",
+      "learner_id": "student_24",
+      "item_id": "item_22",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_19",
+      "learner_id": "student_24",
+      "item_id": "item_25",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_20",
+      "learner_id": "student_24",
+      "item_id": "item_00",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_24_21",
+      "learner_id": "student_24",
+      "item_id": "item_00",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_0",
+      "learner_id": "student_25",
+      "item_id": "item_25",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_25_1",
+      "learner_id": "student_25",
+      "item_id": "item_00",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_25_2",
+      "learner_id": "student_25",
+      "item_id": "item_03",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_25_3",
+      "learner_id": "student_25",
+      "item_id": "item_06",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_25_4",
+      "learner_id": "student_25",
+      "item_id": "item_09",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_5",
+      "learner_id": "student_25",
+      "item_id": "item_12",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_6",
+      "learner_id": "student_25",
+      "item_id": "item_15",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_7",
+      "learner_id": "student_25",
+      "item_id": "item_15",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_8",
+      "learner_id": "student_25",
+      "item_id": "item_21",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_9",
+      "learner_id": "student_25",
+      "item_id": "item_24",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_10",
+      "learner_id": "student_25",
+      "item_id": "item_27",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_11",
+      "learner_id": "student_25",
+      "item_id": "item_02",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_12",
+      "learner_id": "student_25",
+      "item_id": "item_05",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_13",
+      "learner_id": "student_25",
+      "item_id": "item_08",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_14",
+      "learner_id": "student_25",
+      "item_id": "item_08",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_15",
+      "learner_id": "student_25",
+      "item_id": "item_14",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_16",
+      "learner_id": "student_25",
+      "item_id": "item_17",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_17",
+      "learner_id": "student_25",
+      "item_id": "item_20",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_18",
+      "learner_id": "student_25",
+      "item_id": "item_23",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_19",
+      "learner_id": "student_25",
+      "item_id": "item_26",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_20",
+      "learner_id": "student_25",
+      "item_id": "item_01",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_25_21",
+      "learner_id": "student_25",
+      "item_id": "item_01",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_0",
+      "learner_id": "student_26",
+      "item_id": "item_26",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_26_1",
+      "learner_id": "student_26",
+      "item_id": "item_01",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_26_2",
+      "learner_id": "student_26",
+      "item_id": "item_04",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_26_3",
+      "learner_id": "student_26",
+      "item_id": "item_07",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_26_4",
+      "learner_id": "student_26",
+      "item_id": "item_10",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_5",
+      "learner_id": "student_26",
+      "item_id": "item_13",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_6",
+      "learner_id": "student_26",
+      "item_id": "item_16",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_7",
+      "learner_id": "student_26",
+      "item_id": "item_16",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_8",
+      "learner_id": "student_26",
+      "item_id": "item_22",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_9",
+      "learner_id": "student_26",
+      "item_id": "item_25",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_10",
+      "learner_id": "student_26",
+      "item_id": "item_00",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_11",
+      "learner_id": "student_26",
+      "item_id": "item_03",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_12",
+      "learner_id": "student_26",
+      "item_id": "item_06",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_13",
+      "learner_id": "student_26",
+      "item_id": "item_09",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_14",
+      "learner_id": "student_26",
+      "item_id": "item_09",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_15",
+      "learner_id": "student_26",
+      "item_id": "item_15",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_16",
+      "learner_id": "student_26",
+      "item_id": "item_18",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_17",
+      "learner_id": "student_26",
+      "item_id": "item_21",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_18",
+      "learner_id": "student_26",
+      "item_id": "item_24",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_19",
+      "learner_id": "student_26",
+      "item_id": "item_27",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_20",
+      "learner_id": "student_26",
+      "item_id": "item_02",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_26_21",
+      "learner_id": "student_26",
+      "item_id": "item_02",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_0",
+      "learner_id": "student_27",
+      "item_id": "item_27",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_27_1",
+      "learner_id": "student_27",
+      "item_id": "item_02",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_27_2",
+      "learner_id": "student_27",
+      "item_id": "item_05",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_27_3",
+      "learner_id": "student_27",
+      "item_id": "item_08",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_27_4",
+      "learner_id": "student_27",
+      "item_id": "item_11",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_5",
+      "learner_id": "student_27",
+      "item_id": "item_14",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_6",
+      "learner_id": "student_27",
+      "item_id": "item_17",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_7",
+      "learner_id": "student_27",
+      "item_id": "item_17",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_8",
+      "learner_id": "student_27",
+      "item_id": "item_23",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_9",
+      "learner_id": "student_27",
+      "item_id": "item_26",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_10",
+      "learner_id": "student_27",
+      "item_id": "item_01",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_11",
+      "learner_id": "student_27",
+      "item_id": "item_04",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_12",
+      "learner_id": "student_27",
+      "item_id": "item_07",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_13",
+      "learner_id": "student_27",
+      "item_id": "item_10",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_14",
+      "learner_id": "student_27",
+      "item_id": "item_10",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_15",
+      "learner_id": "student_27",
+      "item_id": "item_16",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_16",
+      "learner_id": "student_27",
+      "item_id": "item_19",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_17",
+      "learner_id": "student_27",
+      "item_id": "item_22",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_18",
+      "learner_id": "student_27",
+      "item_id": "item_25",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_19",
+      "learner_id": "student_27",
+      "item_id": "item_00",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_20",
+      "learner_id": "student_27",
+      "item_id": "item_03",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_27_21",
+      "learner_id": "student_27",
+      "item_id": "item_03",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_0",
+      "learner_id": "student_28",
+      "item_id": "item_00",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_28_1",
+      "learner_id": "student_28",
+      "item_id": "item_03",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_28_2",
+      "learner_id": "student_28",
+      "item_id": "item_06",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_28_3",
+      "learner_id": "student_28",
+      "item_id": "item_09",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_28_4",
+      "learner_id": "student_28",
+      "item_id": "item_12",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_5",
+      "learner_id": "student_28",
+      "item_id": "item_15",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_6",
+      "learner_id": "student_28",
+      "item_id": "item_18",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_7",
+      "learner_id": "student_28",
+      "item_id": "item_18",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_8",
+      "learner_id": "student_28",
+      "item_id": "item_24",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_9",
+      "learner_id": "student_28",
+      "item_id": "item_27",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_10",
+      "learner_id": "student_28",
+      "item_id": "item_02",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_11",
+      "learner_id": "student_28",
+      "item_id": "item_05",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_12",
+      "learner_id": "student_28",
+      "item_id": "item_08",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_13",
+      "learner_id": "student_28",
+      "item_id": "item_11",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_14",
+      "learner_id": "student_28",
+      "item_id": "item_11",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_15",
+      "learner_id": "student_28",
+      "item_id": "item_17",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_16",
+      "learner_id": "student_28",
+      "item_id": "item_20",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_17",
+      "learner_id": "student_28",
+      "item_id": "item_23",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_18",
+      "learner_id": "student_28",
+      "item_id": "item_26",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_19",
+      "learner_id": "student_28",
+      "item_id": "item_01",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_20",
+      "learner_id": "student_28",
+      "item_id": "item_04",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_28_21",
+      "learner_id": "student_28",
+      "item_id": "item_04",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_0",
+      "learner_id": "student_29",
+      "item_id": "item_01",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_29_1",
+      "learner_id": "student_29",
+      "item_id": "item_04",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_29_2",
+      "learner_id": "student_29",
+      "item_id": "item_07",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_29_3",
+      "learner_id": "student_29",
+      "item_id": "item_10",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_29_4",
+      "learner_id": "student_29",
+      "item_id": "item_13",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_5",
+      "learner_id": "student_29",
+      "item_id": "item_16",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_6",
+      "learner_id": "student_29",
+      "item_id": "item_19",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_7",
+      "learner_id": "student_29",
+      "item_id": "item_19",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_8",
+      "learner_id": "student_29",
+      "item_id": "item_25",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_9",
+      "learner_id": "student_29",
+      "item_id": "item_00",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_10",
+      "learner_id": "student_29",
+      "item_id": "item_03",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_11",
+      "learner_id": "student_29",
+      "item_id": "item_06",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_12",
+      "learner_id": "student_29",
+      "item_id": "item_09",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_13",
+      "learner_id": "student_29",
+      "item_id": "item_12",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_14",
+      "learner_id": "student_29",
+      "item_id": "item_12",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_15",
+      "learner_id": "student_29",
+      "item_id": "item_18",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_16",
+      "learner_id": "student_29",
+      "item_id": "item_21",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_17",
+      "learner_id": "student_29",
+      "item_id": "item_24",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_18",
+      "learner_id": "student_29",
+      "item_id": "item_27",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_19",
+      "learner_id": "student_29",
+      "item_id": "item_02",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_20",
+      "learner_id": "student_29",
+      "item_id": "item_05",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_29_21",
+      "learner_id": "student_29",
+      "item_id": "item_05",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_0",
+      "learner_id": "student_30",
+      "item_id": "item_02",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_30_1",
+      "learner_id": "student_30",
+      "item_id": "item_05",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_30_2",
+      "learner_id": "student_30",
+      "item_id": "item_08",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_30_3",
+      "learner_id": "student_30",
+      "item_id": "item_11",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_30_4",
+      "learner_id": "student_30",
+      "item_id": "item_14",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_5",
+      "learner_id": "student_30",
+      "item_id": "item_17",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_6",
+      "learner_id": "student_30",
+      "item_id": "item_20",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_7",
+      "learner_id": "student_30",
+      "item_id": "item_20",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_8",
+      "learner_id": "student_30",
+      "item_id": "item_26",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_9",
+      "learner_id": "student_30",
+      "item_id": "item_01",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_10",
+      "learner_id": "student_30",
+      "item_id": "item_04",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_11",
+      "learner_id": "student_30",
+      "item_id": "item_07",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_12",
+      "learner_id": "student_30",
+      "item_id": "item_10",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_13",
+      "learner_id": "student_30",
+      "item_id": "item_13",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_14",
+      "learner_id": "student_30",
+      "item_id": "item_13",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_15",
+      "learner_id": "student_30",
+      "item_id": "item_19",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_16",
+      "learner_id": "student_30",
+      "item_id": "item_22",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_17",
+      "learner_id": "student_30",
+      "item_id": "item_25",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_18",
+      "learner_id": "student_30",
+      "item_id": "item_00",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_19",
+      "learner_id": "student_30",
+      "item_id": "item_03",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_20",
+      "learner_id": "student_30",
+      "item_id": "item_06",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_30_21",
+      "learner_id": "student_30",
+      "item_id": "item_06",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_0",
+      "learner_id": "student_31",
+      "item_id": "item_03",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_31_1",
+      "learner_id": "student_31",
+      "item_id": "item_06",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_31_2",
+      "learner_id": "student_31",
+      "item_id": "item_09",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_31_3",
+      "learner_id": "student_31",
+      "item_id": "item_12",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_31_4",
+      "learner_id": "student_31",
+      "item_id": "item_15",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_5",
+      "learner_id": "student_31",
+      "item_id": "item_18",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_6",
+      "learner_id": "student_31",
+      "item_id": "item_21",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_7",
+      "learner_id": "student_31",
+      "item_id": "item_21",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_8",
+      "learner_id": "student_31",
+      "item_id": "item_27",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_9",
+      "learner_id": "student_31",
+      "item_id": "item_02",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_10",
+      "learner_id": "student_31",
+      "item_id": "item_05",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_11",
+      "learner_id": "student_31",
+      "item_id": "item_08",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_12",
+      "learner_id": "student_31",
+      "item_id": "item_11",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_13",
+      "learner_id": "student_31",
+      "item_id": "item_14",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_14",
+      "learner_id": "student_31",
+      "item_id": "item_14",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_15",
+      "learner_id": "student_31",
+      "item_id": "item_20",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_16",
+      "learner_id": "student_31",
+      "item_id": "item_23",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_17",
+      "learner_id": "student_31",
+      "item_id": "item_26",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_18",
+      "learner_id": "student_31",
+      "item_id": "item_01",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_19",
+      "learner_id": "student_31",
+      "item_id": "item_04",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_20",
+      "learner_id": "student_31",
+      "item_id": "item_07",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_31_21",
+      "learner_id": "student_31",
+      "item_id": "item_07",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_0",
+      "learner_id": "student_32",
+      "item_id": "item_04",
+      "presented_at": "2026-02-01T08:00:00Z",
+      "observed_at": "2026-02-01T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_32_1",
+      "learner_id": "student_32",
+      "item_id": "item_07",
+      "presented_at": "2026-02-02T08:00:00Z",
+      "observed_at": "2026-02-02T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_32_2",
+      "learner_id": "student_32",
+      "item_id": "item_10",
+      "presented_at": "2026-02-03T08:00:00Z",
+      "observed_at": "2026-02-03T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_32_3",
+      "learner_id": "student_32",
+      "item_id": "item_13",
+      "presented_at": "2026-02-04T08:00:00Z",
+      "observed_at": "2026-02-04T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "introduction"
+    },
+    {
+      "attempt_id": "attempt_32_4",
+      "learner_id": "student_32",
+      "item_id": "item_16",
+      "presented_at": "2026-02-05T08:00:00Z",
+      "observed_at": "2026-02-05T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_5",
+      "learner_id": "student_32",
+      "item_id": "item_19",
+      "presented_at": "2026-02-06T08:00:00Z",
+      "observed_at": "2026-02-06T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_6",
+      "learner_id": "student_32",
+      "item_id": "item_22",
+      "presented_at": "2026-02-07T08:00:00Z",
+      "observed_at": "2026-02-07T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_7",
+      "learner_id": "student_32",
+      "item_id": "item_22",
+      "presented_at": "2026-02-08T08:00:00Z",
+      "observed_at": "2026-02-08T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_8",
+      "learner_id": "student_32",
+      "item_id": "item_00",
+      "presented_at": "2026-02-09T08:00:00Z",
+      "observed_at": "2026-02-09T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_9",
+      "learner_id": "student_32",
+      "item_id": "item_03",
+      "presented_at": "2026-02-10T08:00:00Z",
+      "observed_at": "2026-02-10T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_10",
+      "learner_id": "student_32",
+      "item_id": "item_06",
+      "presented_at": "2026-02-11T08:00:00Z",
+      "observed_at": "2026-02-11T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_11",
+      "learner_id": "student_32",
+      "item_id": "item_09",
+      "presented_at": "2026-02-12T08:00:00Z",
+      "observed_at": "2026-02-12T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_12",
+      "learner_id": "student_32",
+      "item_id": "item_12",
+      "presented_at": "2026-02-13T08:00:00Z",
+      "observed_at": "2026-02-13T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_13",
+      "learner_id": "student_32",
+      "item_id": "item_15",
+      "presented_at": "2026-02-14T08:00:00Z",
+      "observed_at": "2026-02-14T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_14",
+      "learner_id": "student_32",
+      "item_id": "item_15",
+      "presented_at": "2026-02-15T08:00:00Z",
+      "observed_at": "2026-02-15T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_15",
+      "learner_id": "student_32",
+      "item_id": "item_21",
+      "presented_at": "2026-02-16T08:00:00Z",
+      "observed_at": "2026-02-16T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_16",
+      "learner_id": "student_32",
+      "item_id": "item_24",
+      "presented_at": "2026-02-17T08:00:00Z",
+      "observed_at": "2026-02-17T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_17",
+      "learner_id": "student_32",
+      "item_id": "item_27",
+      "presented_at": "2026-02-18T08:00:00Z",
+      "observed_at": "2026-02-18T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_18",
+      "learner_id": "student_32",
+      "item_id": "item_02",
+      "presented_at": "2026-02-19T08:00:00Z",
+      "observed_at": "2026-02-19T08:12:00Z",
+      "result": "wrong",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_19",
+      "learner_id": "student_32",
+      "item_id": "item_05",
+      "presented_at": "2026-02-20T08:00:00Z",
+      "observed_at": "2026-02-20T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_20",
+      "learner_id": "student_32",
+      "item_id": "item_08",
+      "presented_at": "2026-02-21T08:00:00Z",
+      "observed_at": "2026-02-21T08:12:00Z",
+      "result": "skipped",
+      "selection_reason": "adaptive"
+    },
+    {
+      "attempt_id": "attempt_32_21",
+      "learner_id": "student_32",
+      "item_id": "item_08",
+      "presented_at": "2026-02-22T08:00:00Z",
+      "observed_at": "2026-02-22T08:12:00Z",
+      "result": "correct",
+      "selection_reason": "adaptive"
+    }
+  ],
+  "prerequisites": [
+    {
+      "before": "measurement",
+      "after": "statistics"
+    },
+    {
+      "before": "statistics",
+      "after": "interpretation"
+    }
+  ]
+}
