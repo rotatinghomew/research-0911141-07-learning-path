@@ -39,6 +39,12 @@ class Store:
                     revision TEXT NOT NULL REFERENCES datasets(revision),
                     selection TEXT NOT NULL, result TEXT NOT NULL, created_at TEXT NOT NULL
                 );
+                CREATE TABLE IF NOT EXISTS advice_publications (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT NOT NULL,
+                    revision TEXT NOT NULL REFERENCES datasets(revision),
+                    learner_id TEXT NOT NULL, policy TEXT NOT NULL,
+                    payload TEXT NOT NULL, created_at TEXT NOT NULL
+                );
             """)
 
     @contextmanager
@@ -100,4 +106,37 @@ class Store:
         for field in ["selection", "result"]:
             result[field] = json.loads(result[field])
         result["dataset"] = self.dataset(result["revision"])
+        return result
+
+    def publish_advice(self, title, revision, learner_id, policy, payload):
+        """发布的学习建议是不可变快照：之后导入新数据或调整策略都不改变它。"""
+        if not isinstance(title, str) or not title.strip() or len(title) > 160:
+            raise ValueError("建议名称应为1至160字")
+        if not isinstance(learner_id, str) or not learner_id.strip():
+            raise ValueError("需要指定学习者")
+        with self.connection() as connection:
+            if connection.execute("SELECT 1 FROM datasets WHERE revision=?", (revision,)).fetchone() is None:
+                raise LookupError("数据版本不存在")
+            cursor = connection.execute(
+                "INSERT INTO advice_publications(title,revision,learner_id,policy,payload,created_at) "
+                "VALUES(?,?,?,?,?,?)",
+                (title.strip(), revision, learner_id, encode(policy), encode(payload),
+                 datetime.now(timezone.utc).isoformat()))
+            identifier = cursor.lastrowid
+        return self.advice(identifier)
+
+    def advice_publications(self):
+        with self.connection() as connection:
+            return [dict(row) for row in connection.execute(
+                "SELECT id,title,revision,learner_id,created_at FROM advice_publications ORDER BY id DESC")]
+
+    def advice(self, identifier):
+        with self.connection() as connection:
+            row = connection.execute("SELECT * FROM advice_publications WHERE id=?",
+                                     (identifier,)).fetchone()
+        if row is None:
+            raise LookupError("学习建议不存在")
+        result = dict(row)
+        result["policy"] = json.loads(result["policy"])
+        result["payload"] = json.loads(result["payload"])
         return result

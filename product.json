@@ -1,6 +1,6 @@
 {
   "name": "练习进展观察台",
-  "focus": "知识点作答与尝试历史",
+  "focus": "知识点掌握判断、练习建议与历史回测",
   "options": [
     [
       "learner",
@@ -9,12 +9,40 @@
         "student_01",
         "student_02",
         "student_03",
-        "student_04"
+        "student_04",
+        "student_05",
+        "student_06",
+        "student_07",
+        "student_08",
+        "student_09",
+        "student_10",
+        "student_11",
+        "student_12",
+        "student_13",
+        "student_14",
+        "student_15",
+        "student_16",
+        "student_17",
+        "student_18",
+        "student_19",
+        "student_20",
+        "student_21",
+        "student_22",
+        "student_23",
+        "student_24",
+        "student_25",
+        "student_26",
+        "student_27",
+        "student_28",
+        "student_29",
+        "student_30",
+        "student_31",
+        "student_32"
       ]
     ]
   ],
   "selection": {
     "learner": "student_01"
   },
-  "purpose": "本地研究资料浏览与复核记录"
+  "purpose": "本地研究资料浏览与复核记录；掌握判断与建议均附证据和不确定性，不替代教学决定"
 }

@@ -40,9 +40,20 @@ class Handler(BaseHTTPRequestHandler):
                 return self.send(200, self.workbench.store.dataset(revision))
             if parsed.path == "/api/notebooks":
                 return self.send(200, self.workbench.store.notebooks())
+            if parsed.path == "/api/advice":
+                return self.send(200, self.workbench.store.advice_publications())
+            if parsed.path.startswith("/api/advice/"):
+                identifier = parsed.path.rsplit("/", 1)[-1]
+                try:
+                    return self.send(200, self.workbench.advice(int(identifier)))
+                except ValueError as error:
+                    return self.send(400, {"error": "建议编号必须是整数"})
             if parsed.path.startswith("/api/notebooks/"):
                 identifier = parsed.path.rsplit("/", 1)[-1]
-                return self.send(200, self.workbench.store.notebook(identifier))
+                try:
+                    return self.send(200, self.workbench.store.notebook(int(identifier)))
+                except ValueError as error:
+                    return self.send(400, {"error": "记录编号必须是整数"})
             static = {"/": "index.html", "/app.js": "app.js", "/style.css": "style.css"}
             if parsed.path not in static:
                 return self.send(404, {"error": "路径不存在"})
@@ -61,10 +72,16 @@ class Handler(BaseHTTPRequestHandler):
                 raise ValueError("请求正文应为对象")
             if self.path == "/api/explore":
                 return self.send(200, self.workbench.inspect(body))
+            if self.path == "/api/mastery":
+                return self.send(200, self.workbench.mastery(body))
+            if self.path == "/api/backtest":
+                return self.send(200, self.workbench.evaluate_backtest(body))
             if self.path == "/api/datasets":
                 return self.send(201, self.workbench.upload(body))
             if self.path == "/api/notebooks":
                 return self.send(201, self.workbench.save(body))
+            if self.path == "/api/advice":
+                return self.send(201, self.workbench.publish_advice(body))
             self.send(404, {"error": "路径不存在"})
         except LookupError as error:
             self.send(404, {"error": str(error)})
